@@ -37,5 +37,4 @@ From your project root directory in your cmd/terminal run the following command.
 ```
 php -S 127.0.0.1:8000
 ```
-BYE!!
-IM DONE WITH LIFE !!  :(
+
