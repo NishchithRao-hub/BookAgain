@@ -31,6 +31,7 @@ putenv("DATABASE=bookagain");
 ?>
 ```
 
+Testing!
 ## Running the project
 
 From your project root directory in your cmd/terminal run the following command.
