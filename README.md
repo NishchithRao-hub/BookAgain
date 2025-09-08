@@ -1,12 +1,13 @@
-# BookAgain
+# Overview
+
+A complete library management system setup using PHP to review various books present in a library with complete book details
+and the option to checkout and purchase/reserve the booking.
 
 ## Project setup
 ### Setup XAMPP for windows
 ```
 https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/
 ```
-
-
 
 ### Clone the repo
 ```
