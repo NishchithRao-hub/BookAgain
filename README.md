@@ -1,6 +1,6 @@
 # Overview
 
-A complete library management system setup using PHP to review various books present in a library with complete book details
+A complete library management system setup using PHP, CSS, Hack and Javascript to review various books present in a library with complete book details
 and the option to checkout and purchase/reserve the booking.
 
 ## Project setup
